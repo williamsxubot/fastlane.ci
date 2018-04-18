@@ -1,0 +1,18 @@
+[
+  {
+    "id": "fcf00e6f-a82c-45da-840b-74ea7a4f304c",
+    "email": "737801311@qq.com",
+    "password_hash": "$2a$10$vwASJ0eX8Lmnc6CxWhrQweTO0QpNun.Qq3yL7Zs/xSUIEUKtBCKPy",
+    "provider_credentials": [
+      {
+        "id": "596af751-18b4-433d-8492-325ba09403f3",
+        "email": "737801311@qq.com",
+        "full_name": "Clone User credentials",
+        "provider_name": "GitHub",
+        "type": "github",
+        "remote_host": "github.com",
+        "encrypted_api_token": "MnM10nAj6u7HjH6q0jYS0wdKXJxl2PSX7ja2PTVsLNI7ONzfNtxoAZ9l2Zqd\nqTgSmZiPzAWMHCn7dGVGWaMCVg==\n"
+      }
+    ]
+  }
+]
